@@ -1,0 +1,2 @@
+# .sh
+MY ALL BASH SCRIPTS
